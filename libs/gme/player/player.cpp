@@ -93,7 +93,7 @@ int main( int argc, char** argv )
 	double tempo = 1.0;
 	bool running = true;
 	double stereo_depth = 0.0;
-	bool accurate = false;
+	bool accurate = true;
 	int muting_mask = 0;
 	while ( running )
 	{
